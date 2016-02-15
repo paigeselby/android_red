@@ -1,4 +1,4 @@
-package xyz.paigeselby.red;
+package xyz.paigeselby.crazyred;
 
 import android.app.Activity;
 import android.os.Bundle;

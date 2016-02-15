@@ -1,4 +1,4 @@
-package xyz.paigeselby.red;
+package xyz.paigeselby.crazyred;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
